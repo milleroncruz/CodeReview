@@ -13,7 +13,7 @@ The project consists of a simple script to check for existing files in a home di
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b> (21H2)
+- <b>Linux</b>
 
 <h2>Program walk-through:</h2>
 
