@@ -1,6 +1,6 @@
 <h1>Code Review - Bash</h1>
 
-<! ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)!>
+<!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) --!>
 
 <h2>Description</h2>
 The project consists of a simple script to check for existing files in a home directory. The project builds on a basic script to make theit more robust and to give the user greater functionality.
